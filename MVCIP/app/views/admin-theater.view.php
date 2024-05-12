@@ -21,7 +21,7 @@
 
             <div class="col-9">
                 <!-- Main Content -->
-                <h1>Theater Management</h1>
+                <h1>Theater Management yeeee</h1>
                 <p>Welcome to the theater management panel. Here you can manage movies, reservations, customers, and more.</p>
 
                 <!-- Buttons -->
