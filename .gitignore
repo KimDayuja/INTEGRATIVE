@@ -29,7 +29,6 @@ composer.json
 composer.lock
 /public/src/
 movie.js
-*.png
 *.code-workspace
 
 
