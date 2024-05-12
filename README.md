@@ -1,7 +1,7 @@
 # Documentaion
 
 ## About the page
-- The page displays different pages according to the inputs of the user.
+- The page displays different movies according to the inputs of the user.
 - All registered movies will be shown right in this pages and enable other users to interact, check out and decide which movie to pick.
 
 ## Controller Testing
